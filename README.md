@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaswanthKarangula
 - 👀 I’m interested in Backend Development and solving real world problems using AI+Software 
-- 🌱 I’m currently learning Vert.x + Rx Java for backend programming to develope highly scalable backend system
+- 🌱 I’m currently learning Vert.x + Rx Java for backend programming to develope  scalable backend system
 - 💞️ I’m looking to collaborate on backend development using java
 - 📫 How to reach me : jaswanthkarangula15@gmail.com
 

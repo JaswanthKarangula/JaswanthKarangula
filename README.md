@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Development and solving real world problems using AI+Software 
 - 🌱 I’m currently learning Vert.x + Rx Java for backend programming to develope  scalable backend system
 - 💞️ I’m looking to collaborate on backend development using java
-- 📫 How to reach me : jaswanthkarangula15@gmail.com
+- 📫 How to reach me : jaswanthkarangula15@gmail.com / https://www.linkedin.com/in/jaswanthkarangula/
 
 <!---
 JaswanthKarangula/JaswanthKarangula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

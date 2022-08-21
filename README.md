@@ -14,8 +14,9 @@
 - 👋 Hi, I’m @JaswanthKarangula
 - 👀 I’m interested in Backend Development and solving real world problems using AI+Software 
 - 💞️ I’m looking to collaborate on backend development using java
-- 📫 How to reach me : jaswanthkarangula15@gmail.com / https://www.linkedin.com/in/jaswanthkarangula/
-
+- 📫 How to reach me : <a href="jaswanthkarangula01@gmail.com"> <img src="img/gmail.png" height=25 width=35> </a> / <a href="https://www.linkedin.com/in/jaswanthkarangula/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a>
 <!---
 JaswanthKarangula/JaswanthKarangula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -39,4 +40,22 @@ You can click the Preview link to take a look at your changes.
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/J__K?theme=light&font=Karma&ext=contest" />
 <!-- <img height="280em" src="https://raw.githubusercontent.com/J__K/cf-stats/main/output/light_card.svg" /> -->
+</p>
+
+
+
+
+#### Connect With Me
+
+<p left="center">
+<a href="https://twitter.com/J__K">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/jaswanthkarangula/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+
+<a href="jaswanthkarangula01@gmail.com">
+<!--   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25> -->
+</a>
 </p>

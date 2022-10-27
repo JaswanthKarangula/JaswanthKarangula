@@ -12,7 +12,7 @@
 <!-- </p> -->
 
 - 👋 Hi, I’m @JaswanthKarangula
-- 👀 I’m interested in Backend Development and solving real world problems using AI+Software 
+- 👀 Pursuing Masters in Software Enginering at San Jose State University
 - 💞️ I’m looking to collaborate on backend development using java
 - 📫 How to reach me : <a href="mailto:jaswanthkarangula01@gmail.com"> <img src="img/gmail.png" height=25 width=35> </a> / <a href="https://www.linkedin.com/in/jaswanthkarangula/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>

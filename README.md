@@ -48,11 +48,15 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaswanthkarangula&show_icons=true&locale=en&layout=compact" alt="jaswanthkarangula" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaswanthkarangula&show_icons=true&locale=en" alt="jaswanthkarangula" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthkarangula&" alt="jaswanthkarangula" /></p>
+ -->
 #### Connect With Me
 
-<p left="center">
+ <p left="center">
 <a href="https://twitter.com/J__K">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 

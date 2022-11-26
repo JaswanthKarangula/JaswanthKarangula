@@ -1,3 +1,8 @@
+
+<!-- ![](https://komarev.com/ghpvc/?username=jaswanthkarangula&style=plastic&color=dc143c)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaswanthkarangula&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
 <!-- <p align="left">
   <a href="https://leetcode.com/J__K/">
     <img src="https://cp-logo.vercel.app/leetcode/J__K" alt="Leet code rating" />

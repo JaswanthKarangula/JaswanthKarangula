@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 <b>⚡ Github Stats</b>
 <p float="left">
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaswanthKarangula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaswanthKarangula&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaswanthKarangula&theme=react&layout=compact&hide=css%22&langs_count=8"/>
 </p>
 
 <b>&#128200;  Programming</b>
@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
   </a>
   </p>
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/J__K?theme=light&font=Karma&ext=contest" />
+<img height="390em" src="https://leetcard.jacoblin.cool/J__K?theme=light&font=Karma&ext=contest" />
 <!-- <img height="280em" src="https://raw.githubusercontent.com/J__K/cf-stats/main/output/light_card.svg" /> -->
 </p>
 

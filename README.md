@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
   </a>
   </p>
 <p float="left">
-<img height="390em" src="https://leetcard.jacoblin.cool/J__K?theme=light&font=Karma&ext=contest" />
+<img height="390em" src="https://leetcard.jacoblin.cool/J__K?theme=dark&font=Karma&ext=contest" />
 <!-- <img height="280em" src="https://raw.githubusercontent.com/J__K/cf-stats/main/output/light_card.svg" /> -->
 </p>
 

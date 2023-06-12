@@ -19,15 +19,15 @@ You can click the Preview link to take a look at your changes.
 
 
 <b>⚡ Github Stats</b>
+<br/>
+<br/>
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaswanthKarangula&layout=compact&hide=css%22&langs_count=8&theme=github_dark"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaswanthkarangula&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaswanthkarangula&theme=juicyfresh&row=2&column=4)](https://github.com/JaswanthKarangula)
 <p float="left">
   <br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaswanthKarangula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-  <br/>
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaswanthKarangula&theme=react&layout=compact&hide=css%22&langs_count=8"/>
-  <br/>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthkarangula&" alt="jaswanthkarangula" /></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaswanthKarangula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast" /> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthkarangula&theme=highcontrast" alt="jaswanthkarangula" />
 </p>
 
 <b>&#128200;  Programming</b>

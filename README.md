@@ -1,20 +1,8 @@
 
-<!-- ![](https://komarev.com/ghpvc/?username=jaswanthkarangula&style=plastic&color=dc143c)
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaswanthkarangula&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
--->
 
-<!-- <p align="left">
-  <a href="https://leetcode.com/J__K/">
-    <img src="https://cp-logo.vercel.app/leetcode/J__K" alt="Leet code rating" />
-  </a> -->
-<!--   <a href="https://codeforces.com/profile/J__K.me">
-    <img src="https://raw.githubusercontent.com/J__K/cf-stats/main/output/rating.svg" alt="Codeforces rating" />
-  </a> -->
-<!--   <a href="https://github.com/jaswanthkarangula/">
-    <img src="https://komarev.com/ghpvc/?username=JaswanthKarangula" alt="visitors" />
-  </a> -->
 
-<!-- </p> -->
+![](https://komarev.com/ghpvc/?username=jaswanthkarangula&style=plastic&color=dc143c)
+
 
 - 👋 Hi, I’m Jaswanth
 - 👀 Currently pursuing Masters in Software Enginering at San Jose State University.
@@ -31,9 +19,15 @@ You can click the Preview link to take a look at your changes.
 
 
 <b>⚡ Github Stats</b>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaswanthkarangula&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p float="left">
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaswanthKarangula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  -->
+  <br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaswanthKarangula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+  <br/>
 <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaswanthKarangula&theme=react&layout=compact&hide=css%22&langs_count=8"/>
+  <br/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthkarangula&" alt="jaswanthkarangula" /></p>
 </p>
 
 <b>&#128200;  Programming</b>
@@ -48,13 +42,13 @@ You can click the Preview link to take a look at your changes.
 <!-- <img height="280em" src="https://raw.githubusercontent.com/J__K/cf-stats/main/output/light_card.svg" /> -->
 </p>
 
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaswanthkarangula&show_icons=true&locale=en&layout=compact" alt="jaswanthkarangula" /></p>
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaswanthkarangula&show_icons=true&locale=en&layout=compact" alt="jaswanthkarangula" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaswanthkarangula&show_icons=true&locale=en" alt="jaswanthkarangula" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthkarangula&" alt="jaswanthkarangula" /></p>
- -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthkarangula&" alt="jaswanthkarangula" /></p> -->
+
 #### Connect With Me
 
  <p left="center">
@@ -69,3 +63,15 @@ You can click the Preview link to take a look at your changes.
 <!--   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25> -->
 </a>
 </p>
+
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  

@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaswanthkarangula&theme=juicyfresh&row=2&column=4)](https://github.com/JaswanthKarangula)
 <p float="left">
   <br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaswanthKarangula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast" /> 
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaswanthKarangula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast" />  -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthkarangula&theme=highcontrast" alt="jaswanthkarangula" />
 </p>
 
